@@ -1,6 +1,6 @@
 # writing
 
-Repo for syncing with [Stack edit](stackedit.io)
+Repo for syncing with [Stack edit](stackedit.io).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2Njg2NTExMF19
+eyJoaXN0b3J5IjpbLTE5MjE5NTc4OTJdfQ==
 -->
