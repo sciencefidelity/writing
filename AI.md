@@ -1,7 +1,7 @@
 
-# How I became a Data Scientist
+# How I became a robot trainer
 
-My journey to becoming a software engineer began with making simple websites for my projects and for friends
+Like many companies today my journey towards AI Engineer started with my CEO deciding that we must persue
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0ODYyMzMxNl19
+eyJoaXN0b3J5IjpbLTE0NDUxMTc2NDddfQ==
 -->
